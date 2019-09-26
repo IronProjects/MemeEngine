@@ -7,7 +7,7 @@ print ('Hello!')
 time.sleep (1)
 #typewritter effect
 
-welcome = 'Welcome to CS:GO KEY GENERATOR by Leo\n'
+welcome = 'Welcome to CS:GO KEY GENERATOR by IronProjects\n'
 for x in welcome:
     print(x, end="")
     sys.stdout.flush()
